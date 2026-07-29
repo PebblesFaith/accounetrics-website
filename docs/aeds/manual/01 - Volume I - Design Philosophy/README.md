@@ -174,4 +174,18 @@ Future standards, specifications, implementation guidance, and interface compone
 
 ---
 
+# Publication Summary
+
+After completing all ten chapters of Volume I, readers are encouraged
+to continue with the official publication summary.
+
+→ VOLUME-I-PUBLICATION-SUMMARY.md
+
+The publication summary provides an overview of the philosophy,
+engineering commitments, architectural direction, and enterprise
+standards established throughout Volume I while preparing readers for
+Volume II — Color Architecture.
+
+---
+
 **End of Volume Introduction**
