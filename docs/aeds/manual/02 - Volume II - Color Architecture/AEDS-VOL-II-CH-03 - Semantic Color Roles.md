@@ -301,7 +301,7 @@ Implementation values shall be defined separately within future AEDS publication
 
 Semantic color roles shall operate as an integrated enterprise communication system.
 
-Relationships between roles shall remain predictable and non-confeting.
+Relationships between roles shall remain predictable and non-conflicting.
 
 For example:
 
