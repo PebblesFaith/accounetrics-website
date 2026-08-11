@@ -3811,7 +3811,7 @@ AccouNetrics
 ---
 
 ------------------------------------------------------------
-Revision History
+## Revision History
 ------------------------------------------------------------
 
 Version    Date              Description
@@ -3821,7 +3821,7 @@ Version    Date              Description
 ---
 
 ------------------------------------------------------------
-AEDS PUBLICATION MILESTONE
+## AEDS PUBLICATION MILESTONE
 ------------------------------------------------------------
 
 Publication:
